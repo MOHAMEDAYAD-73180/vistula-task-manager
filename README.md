@@ -32,8 +32,8 @@ Base URL: `https://PROJECT_ID.supabase.co/rest/v1`
 
 ## Team Collaboration (Pull Requests)
 
-- **My Pull Request to my partner's repository:** PASTE_LINK_HERE
-- **My partner's Pull Request to my repository:** PASTE_LINK_HERE
+- **My Pull Request to my partner's repository:** https://github.com/Assil55/vistula-team-project-73476/pull/2
+- **My partner's Pull Request to my repository:** https://github.com/mohamedayad-73180/vistula-task-manager/pull/1 (file names fixed in https://github.com/mohamedayad-73180/vistula-task-manager/pull/2)
 
 ## Files
 
